@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   publish:
-    uses: timothychiao/slapshot-reusable-workflows/.github/workflows/publish.yml@v1
+    uses: timothychiao/slapshot-reusable-workflows/.github/workflows/publish.yml@main

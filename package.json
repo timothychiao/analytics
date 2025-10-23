@@ -51,7 +51,7 @@
     "vite": "^4.4.9"
   },
   "optionalDependencies": {
-    "esbuild/linux-x64": "0.18.20"
+    "@esbuild/linux-x64": "0.18.20"
   },
   "overrides": {
     "@babel/helper-define-polyfill-provider": "0.4.3",
